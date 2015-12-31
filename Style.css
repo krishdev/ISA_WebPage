@@ -14,7 +14,7 @@ ul{	background-color:blue;
 li{  display:inline;
 	width:100%;
 	font-family:sans-serif;
-	font-size:26;
+	font-size:15;
 	position: relative;
 }
 a{ color:white;
@@ -33,6 +33,7 @@ img{height:65%;
 	padding-left:35px;
 	padding-right:35px;
 	float:center;
+	margin-top:20px;
 }
 .rowAligned{margin:2% 1% 0px 10%;}
 .circleDiv{
